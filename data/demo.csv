@@ -1,0 +1,2 @@
+insert into demo(name, geometric_field)
+values('point',ST_GeomFromText('point(1 1)'))
